@@ -6,7 +6,8 @@
 
  ## Acerca de mi
  Soy estudiante de la carrera ***Licenciatura en gestion de tecnologias de la informacion***.
- Estudio en la [unpaz](https://www.unpaz.edu.ar/)
+ Estudio en la [unpaz](https://www.unpaz.edu.ar/).
+ 
  Estoy terminando el segundo año de la carrera. 
 
  ### Cosas favoritas       
