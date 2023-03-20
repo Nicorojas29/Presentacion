@@ -1,0 +1,23 @@
+{
+  "name": "pres",
+  "version": "1.0.0",
+  "description": "![](./imagen/GMGT.jpg )",
+  "main": "app.js ",
+  "scripts": {
+    "start": "node ./src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicorojas29/Presentacion.git"
+  },
+  "author": "Nico Rojas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nicorojas29/Presentacion/issues"
+  },
+  "homepage": "https://github.com/Nicorojas29/Presentacion#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
